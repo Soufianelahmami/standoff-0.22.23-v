@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice mod 1","desc":"Standoff 0.22.23v is a popular first-person shooter video game developed and published by Axlebolt. It is a multiplayer game that is available on both Android and iOS devices.","photo":"https://iili.io/HSusEAP.jpg"},
+  {"title":"helper pack 2","desc":"The game has gained immense popularity among gamers because of its fast-paced gameplay, intense action, and incredible graphics.","photo":"https://iili.io/HSusMDF.jpg"},
+  {"title":"advance mod 3","desc":"In this game, players are divided into two teams - the terrorists and the counter-terrorists. The terrorists' objective is to plant a bomb at a designated location and defend it until it explodes, ","photo":"https://iili.io/HSusGN1.jpg"},
+  {"title":"how to use this app 4","desc":" while the counter-terrorists' objective is to prevent the terrorists from planting the bomb or defuse it if it has already been planted. The game has several maps, and each map has its unique layout and gameplay mechanics.","photo":"https://iili.io/HSus1HB.jpg"},
+  {"title":"tips pack 5","desc":"One of the most popular maps in Standoff 0.22.23v is the "Warehouse." It is a medium-sized map that features a warehouse as its main area. The map has several crates and containers that provide cover for players, ","photo":"https://iili.io/HSusWog.jpg"},
+  {"title":"helper mod 6","desc":" and there are also several narrow passageways that players can use to navigate the map quickly. The layout of the map encourages players to use both long-range and close-quarter combat strategies.","photo":"https://iili.io/HSusXVa.jpg"},
+  {"title":"advice pack 7","desc":"Another popular map in Standoff 0.22.23v is the "Oil Rig." It is a larger map that features an oil rig in the middle of the ocean. The map has several levels, and players can use stairs and ladders to navigate between them. ","photo":"https://iili.io/HSushiJ.jpg"},
+  {"title":"how to use this app 8","desc":"The map also features several narrow walkways that players must navigate carefully to avoid falling off the edge. The layout of the map encourages players to use long-range combat strategies, as there are several open areas where players can shoot from a distance.","photo":"https://iili.io/HSuswKv.jpg"}
    ]
  
 }
