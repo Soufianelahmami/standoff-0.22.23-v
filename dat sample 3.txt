@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"advice mod 1","desc":"Standoff 0.22.23v is a popular first-person shooter video game developed and published by Axlebolt. It is a multiplayer game that is available on both Android and iOS devices.","photo":"https://iili.io/HSusEAP.jpg"},
-  {"title":"helper pack 2","desc":"The game has gained immense popularity among gamers because of its fast-paced gameplay, intense action, and incredible graphics.","photo":"https://iili.io/HSusMDF.jpg"},
-  {"title":"advance mod 3","desc":"In this game, players are divided into two teams - the terrorists and the counter-terrorists. The terrorists' objective is to plant a bomb at a designated location and defend it until it explodes, ","photo":"https://iili.io/HSusGN1.jpg"},
-  {"title":"how to use this app 4","desc":" while the counter-terrorists' objective is to prevent the terrorists from planting the bomb or defuse it if it has already been planted. The game has several maps, and each map has its unique layout and gameplay mechanics.","photo":"https://iili.io/HSus1HB.jpg"},
-  {"title":"tips pack 5","desc":"One of the most popular maps in Standoff 0.22.23v is the "Warehouse." It is a medium-sized map that features a warehouse as its main area. The map has several crates and containers that provide cover for players, ","photo":"https://iili.io/HSusWog.jpg"},
-  {"title":"helper mod 6","desc":" and there are also several narrow passageways that players can use to navigate the map quickly. The layout of the map encourages players to use both long-range and close-quarter combat strategies.","photo":"https://iili.io/HSusXVa.jpg"},
-  {"title":"advice pack 7","desc":"Another popular map in Standoff 0.22.23v is the "Oil Rig." It is a larger map that features an oil rig in the middle of the ocean. The map has several levels, and players can use stairs and ladders to navigate between them. ","photo":"https://iili.io/HSushiJ.jpg"},
-  {"title":"how to use this app 8","desc":"The map also features several narrow walkways that players must navigate carefully to avoid falling off the edge. The layout of the map encourages players to use long-range combat strategies, as there are several open areas where players can shoot from a distance.","photo":"https://iili.io/HSuswKv.jpg"}
+  {"title":"Advice mod 1","desc":"Weapons: The game features a wide range of weapons, including pistols, shotguns, rifles, and sniper rifles. Each weapon has its own unique characteristics, such as damage, ","photo":"https://iili.io/HSun9ou.jpg"},
+  {"title":"helper pack 2","desc":"Maps: The game features a variety of maps, each with its own unique layout and design. Some maps are open and spacious, while others are tight and confined, requiring a different playstyle.","photo":"https://iili.io/HSun3cQ.jpg"},
+  {"title":"how to use this app 3","desc":"Skins: Players can customize their characters and weapons with skins. Skins can be earned through gameplay or purchased in the in-game store.","photo":"https://iili.io/HSun2Kx.jpg"},
+  {"title":"Tips mod 4","desc":"Modes: MOD Standoff 2 offers various game modes, including deathmatch, capture the flag, and defuse the bomb. Each mode requires a different strategy and playstyle.","photo":"https://iili.io/HSnz5PV.jpg"},
+  {"title":"advance pack 5","desc":"Ranking System: The game has a ranking system that allows players to progress through the game and earn rewards.","photo":"https://iili.io/HSnzYKB.jpg"},
+  {"title":"helper mod 6","desc":"In-game Store: Players can purchase skins, weapons, and other items in the in-game store using in-game currency or real money.","photo":"https://iili.io/HSnzENa.jpg"},
+  {"title":"how to use this app 7","desc":"MOD Standoff 2 has become a popular game due to its fast-paced gameplay, intuitive controls, and variety of features. The game is easy to pick up and play, making it accessible to players of all skill levels.","photo":"https://iili.io/HSnz0HF.jpg"},
+  {"title":"tips pack 8","desc":"Additionally, the game's ranking system and rewards provide players with a sense of progression and accomplishment.","photo":"https://iili.io/HSunBN1.jpg"}
    ]
  
 }
